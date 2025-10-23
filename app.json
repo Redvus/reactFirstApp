@@ -1,11 +1,11 @@
 {
     "expo": {
-        "name": "ShoppingList",
-        "slug": "ShoppingList",
+        "name": "StudyApps",
+        "slug": "StudyApps",
         "version": "1.0.0",
         "orientation": "portrait",
         "icon": "./assets/images/icon.png",
-        "scheme": "ShoppingList",
+        "scheme": "StudyApps",
         "userInterfaceStyle": "automatic",
         "newArchEnabled": true,
         "ios": {
