@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
         color: '#808080',
         bottom: -90,
         left: -35,
-        position: 'absolute',
+        position: 'absolute'
     },
     titleContainer: {
         flexDirection: 'row',
